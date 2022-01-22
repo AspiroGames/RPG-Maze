@@ -3,7 +3,7 @@ Aspiro Games built the RPG-Maze app as a Free app. RPG-Maze is provided by Aspir
 
 This page is used to inform you regarding policies with the collection, use, and store of Personal Information if anyone decided to use RPG-Maze.
 
-**RPG-Maze does not collect, use and store any type of Personal Information.**
+**RPG-Maze does not collect, use, or store any type of Personal Information.**
 
 ## Changes to This Privacy Policy
 
