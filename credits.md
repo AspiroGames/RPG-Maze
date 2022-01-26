@@ -10,7 +10,7 @@ Special thanks to https://opengameart.org for all the assets.
   
 ["3D Pirate Coin"](https://opengameart.org/content/3d-pirate-coin) by acasas, used under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
   
-["Wooden Door"](https://opengameart.org/content/wooden-door) by Danimal & Yughues, used under CC-BY-SA 3.0(https://creativecommons.org/licenses/by-sa/3.0/)
+["Wooden Door"](https://opengameart.org/content/wooden-door) by Danimal & Yughues, used under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
   
 ["Treasure Pack"](https://opengameart.org/content/treasure-pack) by mehrasaur, used under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
   
