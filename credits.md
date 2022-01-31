@@ -16,6 +16,8 @@ Special thanks to https://opengameart.org for all the assets.
   
 ["Isometric Grass Tiles"](https://opengameart.org/content/isometric-grass-tiles) by Jaqueline Martin, used under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
   
+["spider"](https://sketchfab.com/3d-models/spider-74493f72801e4304a4329b852b7814be) by Matbot, used under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ["RPG - The Secret Within the Woods"](https://opengameart.org/content/rpg-the-secret-within-the-woods) by HitCtrl, used under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 ["RPG SFX"](https://opengameart.org/content/80-cc0-rpg-sfx) by rubberduck, used under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
