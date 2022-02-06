@@ -4,8 +4,6 @@ RPG-Maze was desined and produced by Aspiro Games.
 
 ## Used assets
 
-Special thanks to https://opengameart.org for all the assets.
-
 ["LowPoly RPG Characters"](https://opengameart.org/content/lowpoly-rpg-characters) by quaternius, used under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
   
 ["3D Pirate Coin"](https://opengameart.org/content/3d-pirate-coin) by acasas, used under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
