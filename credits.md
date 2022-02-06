@@ -16,11 +16,13 @@ Special thanks to https://opengameart.org for all the assets.
   
 ["Isometric Grass Tiles"](https://opengameart.org/content/isometric-grass-tiles) by Jaqueline Martin, used under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
   
-["spider"](https://sketchfab.com/3d-models/spider-74493f72801e4304a4329b852b7814be) by Matbot, used under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+["Spider"](https://sketchfab.com/3d-models/spider-74493f72801e4304a4329b852b7814be) by Matbot, used under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ["Fire/Ice/Stone Golem"](https://opengameart.org/content/fireicestone-golem) by umask007, used under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/), [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 
 ["Cethiel's Dragon"](https://opengameart.org/content/cethiels-dragon-3d) by Cethiel and Drummyfish, used under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+
+["Skeleton"](https://sketchfab.com/3d-models/3december-2020-day-16-fantasy-564b1f4f741b4f059a3e03b9c63fb438) by Liberi Arcano, used under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) / Changed
 
 ["RPG - The Secret Within the Woods"](https://opengameart.org/content/rpg-the-secret-within-the-woods) by HitCtrl, used under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
