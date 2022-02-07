@@ -22,6 +22,8 @@ RPG-Maze was desined and produced by Aspiro Games.
 
 ["Skeleton"](https://sketchfab.com/3d-models/3december-2020-day-16-fantasy-564b1f4f741b4f059a3e03b9c63fb438) by Liberi Arcano, used under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) / Changed
 
+["Sandworm"](https://sketchfab.com/3d-models/gold-sandworm-41f03702289940b29831dcb771fb5f3a) by Jim Cheng, used under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
 ["RPG - The Secret Within the Woods"](https://opengameart.org/content/rpg-the-secret-within-the-woods) by HitCtrl, used under [CC-BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 ["RPG SFX"](https://opengameart.org/content/80-cc0-rpg-sfx) by rubberduck, used under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
