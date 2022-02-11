@@ -28,4 +28,6 @@ RPG-Maze was desined and produced by Aspiro Games.
 
 ["RPG SFX"](https://opengameart.org/content/80-cc0-rpg-sfx) by rubberduck, used under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
 
+["RPG Icons Set"](https://opengameart.org/content/rpg-icons-set) by Qoma, used under [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
+
 Last Updated At: 26 January, 2022
